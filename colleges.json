@@ -1,0 +1,71 @@
+[
+    {
+        "id":"657786a87sbdad",
+        "name": "Millennium Group of Institutions, Bhopal",
+        "address": "Millennium Campus, Nathu Barkheda Road Near Neelbad Chouraha Bhopal M.P. 462044",
+        "contact": "0755-2525100, 9109179112",
+        "city": "Bhopal",
+        "state": "Madhya Pradesh",
+        "type": "Private",
+        "university": "Rajiv Gandhi Proudyogiki Vishwavidyalaya - RGPV",
+        "logo":"https://res.cloudinary.com/dcgre5gxz/image/upload/v1686713300/College/millenium1.jpg",
+        "image": [
+            "https://res.cloudinary.com/dcgre5gxz/image/upload/v1686713300/College/millenium1.jpg",
+            "https://res.cloudinary.com/dcgre5gxz/image/upload/v1686713300/College/millenium2.jpg",
+            "https://res.cloudinary.com/dcgre5gxz/image/upload/v1686713300/College/millenium3.jpg",
+            "https://res.cloudinary.com/dcgre5gxz/image/upload/v1686713300/College/millenium4.jpg"
+        ],
+        "courses": [
+            {
+                "courseName": "Diploma (Polytechnic)",
+                "fee": 25000,
+                "eligibility": "10th Pass"
+            },
+            {
+                "courseName": "BE/B.Tech",
+                "fee": 55000,
+                "eligibility": "10+2 Pass"
+            },
+            {
+                "courseName": "BE/B.Tech (Lateral Entry)",
+                "fee": 55000,
+                "eligibility": "Diploma"
+            },
+            {
+                "courseName": "M.Tech",
+                "eligibility": "Graduation (B.Tech)"
+            },
+            {
+                "courseName": "MBA",
+                "eligibility": "Graduation"
+            },
+            {
+                "courseName": "D.Pharma",
+                "eligibility": "10+2 Pass"
+            },
+            {
+                "courseName": "B.Pharma",
+                "eligibility": "10+2 Pass"
+            },
+            {
+                "courseName": "M.Pharma",
+                "eligibility": "Graduation (B.Pharma Pass)"
+            }
+        ],
+        "branches": [
+            {
+                "BE/B.Tech": "Computer Science Engineering, Data Science, Artificial Intelligence , Machine Learning, Mechanical Engineering, Civil Engineering, Electronics Engineering, Electrical Engineering",
+                "M.Tech": "Computer Science Engineering, Digital Communication, Electrical  Engineering, Electronics Engineering",
+                "Diploma": "Civil, Mechanical, Electrical, Electronics, Computer Science, Architecture and Interior Design",
+                "MBA": "Marketing/Finance/HR",
+                "D.Pharma": "Pharmacy",
+                "B.Pharma": "Pharmacy",
+                "M.Pharma": "Pharmacology, Pharmaceutical Chemistry"
+            }
+        ],
+        "message": "Welcome to Millennium Group of Institutions, Bhopal. The group which stands apart in the crowd of professional Institutions. We always cherish the idea of motivating the students to enlighten the path of darkness & illuminate it with their ideas and knowledge, rather than allowing them to opt and travel the lighted path. It is the Knowledge that has become the most important tool in this new era. In today's Digital World, one has to be on the toes to Aim, Prepare & Compete on the Spot to be the Best of the lot. Our primary focus is to impart Innovation & Excellence in the students along with the Social Values. Millennium Group of Institutions, Bhopal is a self financed group established in the year 1999 and posses all the important approvals , affiliations and associations with the key governing bodies namely AICTE, RGPV, BU, MPMSU, PCI, NCTE, MPNRC. Our Vision is to provide quality education by equipping students with knowledge, skills & values and providing them opportunities to realize their dreams of becoming future leaders, entrepreneurs and above all good human beings. Our Mission is to prepare Youth not only for the glorious future, but also create glorious furture for the Youth. Chairman MGI Er. Vinod Yadav B.E., MBA",
+        "Details": "Millennium at a Glance. Welcome to MGI - The Institutes that make a difference. We at MGI cherish the idea of motivating our students towards innovation, excellence & continuous development. It is our constant endeavour to provide support to our students through not just our highly qualified & experienced faculty members, but also our state of the art infrastructure & friendly environment. The Millennium Education & Development Society was established in 1999. Growing in leaps & bounds, it now has 12 colleges running successfully. MITS (Millennium Institute of Technology & Science), MIT (Millennium Institute of Technology), MCP (Millennium College of Pharmacy), MCPS (Millennium College of Pharmacy & Science), MCEx (Millennium College of Excellence), MCM (Millennium College of Management), MCN (Millennium College of Nursing), MCE (Millennium College of Education), MITI (Millennium Private ITI), MIPS (Millennium Institute of Paramedical Sciences), Sky College of Aeronautical Engineering",
+        "rating":4.5,
+        "featured": true
+    }    
+]
